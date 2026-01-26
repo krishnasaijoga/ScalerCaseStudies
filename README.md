@@ -1,0 +1,1 @@
+This folder contains Python notebooks documenting case studies from the Scaler course, covering data exploration, feature engineering, model experimentation, and performance evaluation across multiple business datasets.
